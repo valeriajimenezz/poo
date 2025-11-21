@@ -1,0 +1,86 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.0">
+  <diagram name="Página-1" id="nQkVTLukJrFCGwG9s-6u">
+    <mxGraphModel dx="683" dy="1405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ob_JeHDl2WwE9BJS7KWT-9" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="150" width="150" x="600" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob_JeHDl2WwE9BJS7KWT-10" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;strokeColor=default;" value="Adoptante" vertex="1">
+          <mxGeometry height="30" width="150" x="600" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob_JeHDl2WwE9BJS7KWT-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- nombre: string&amp;nbsp;&lt;div&gt;-edad: int&lt;/div&gt;&lt;div&gt;-telefono: string&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="610" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob_JeHDl2WwE9BJS7KWT-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="150" x="600" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob_JeHDl2WwE9BJS7KWT-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=0;" value="+ Adoptante(nombre:string, edad: int, telefono: string)&lt;div&gt;+mostrarInfo() : void&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="70" x="640" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob_JeHDl2WwE9BJS7KWT-14" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="150" width="150" x="339" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob_JeHDl2WwE9BJS7KWT-15" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;strokeColor=default;" value="Adopcion" vertex="1">
+          <mxGeometry height="30" width="150" x="339" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob_JeHDl2WwE9BJS7KWT-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- mascota : Mascota&lt;div&gt;- adoptante : Adoptante&amp;nbsp;&lt;/div&gt;&lt;div&gt;- fecha : string&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="349" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob_JeHDl2WwE9BJS7KWT-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="150" x="339" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob_JeHDl2WwE9BJS7KWT-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=0;" value="+ Adopcion(mascota:Mascota, adoptante: Adoptante, fecha: string)&lt;div&gt;+mostrarInfo() : void&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="70" x="379" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob_JeHDl2WwE9BJS7KWT-19" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="140" width="140" x="90" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob_JeHDl2WwE9BJS7KWT-20" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;strokeColor=default;" value="Mascota&lt;div&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="90" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob_JeHDl2WwE9BJS7KWT-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- nombre: string&lt;div&gt;- especia: string&lt;/div&gt;&lt;div&gt;- edad: int&amp;nbsp;&lt;/div&gt;&lt;div&gt;- raza string&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="100" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob_JeHDl2WwE9BJS7KWT-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="140" x="90" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob_JeHDl2WwE9BJS7KWT-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=0;" value="+ Mascota(nombre:string, especia: string, edad:int, raza: string)&lt;div&gt;+mostrarInfo():void&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="60" x="130" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob_JeHDl2WwE9BJS7KWT-24" edge="1" parent="1" source="Ob_JeHDl2WwE9BJS7KWT-25" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="Ob_JeHDl2WwE9BJS7KWT-17" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="220" />
+            </Array>
+            <mxPoint x="320" y="410" as="sourcePoint" />
+            <mxPoint x="370" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ob_JeHDl2WwE9BJS7KWT-26" edge="1" parent="1" source="Ob_JeHDl2WwE9BJS7KWT-20" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="Ob_JeHDl2WwE9BJS7KWT-25" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="160" y="360" as="sourcePoint" />
+            <mxPoint x="339" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ob_JeHDl2WwE9BJS7KWT-25" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#000000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="145" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob_JeHDl2WwE9BJS7KWT-27" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#000000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="660" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob_JeHDl2WwE9BJS7KWT-28" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Ob_JeHDl2WwE9BJS7KWT-27" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="675" y="220" />
+            </Array>
+            <mxPoint x="490" y="220" as="sourcePoint" />
+            <mxPoint x="550" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
