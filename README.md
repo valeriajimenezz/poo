@@ -50,4 +50,6 @@ Resumen de todas las acciones realizadas
 
 ¡Crea el helado perfecto y disfruta de tu combinación! 🍦✨
 
+**Diagrama UML**
+<img width="851" height="576" alt="UML_icecream++ drawio" src="https://github.com/user-attachments/assets/2ba95c08-9483-463f-838e-77bfcfad413e" />
 
