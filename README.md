@@ -1,4 +1,4 @@
-**#Proyecto: IceCream++**
+**🍦 Resumen del Proyecto: IceCream++**
 
 IceCream++ es un programa interactivo que permite al usuario crear su propio helado personalizado, combinando sabores, bases y toppings, y obteniendo un resumen final junto con su ticket. El objetivo es simular el proceso de creación de un helado real, permitiendo que el usuario experimente con distintas combinaciones de ingredientes.
 
@@ -51,5 +51,7 @@ Resumen de todas las acciones realizadas
 ¡Crea el helado perfecto y disfruta de tu combinación! 🍦✨
 
 **Diagrama UML**
+
+
 <img width="851" height="576" alt="UML_icecream++ drawio" src="https://github.com/user-attachments/assets/2ba95c08-9483-463f-838e-77bfcfad413e" />
 
