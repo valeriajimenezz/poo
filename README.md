@@ -1,4 +1,4 @@
-#Proyecto: IceCream++
+**#Proyecto: IceCream++**
 
 IceCream++ es un programa interactivo que permite al usuario crear su propio helado personalizado, combinando sabores, bases y toppings, y obteniendo un resumen final junto con su ticket. El objetivo es simular el proceso de creación de un helado real, permitiendo que el usuario experimente con distintas combinaciones de ingredientes.
 
@@ -14,7 +14,7 @@ Limón
 
 Cada uno de estos sabores cuenta con características propias, como tipo de chocolate, intensidad del café, tipo de fruta o ralladura de limón.
 
-#🍨 Opciones disponibles para personalizar el helado
+**#🍨 Opciones disponibles para personalizar el helado**
 
 Elegir la base del helado
 El usuario selecciona el sabor principal y su tipo o característica específica según la clase heredada.
