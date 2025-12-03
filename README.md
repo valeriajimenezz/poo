@@ -53,6 +53,5 @@ Resumen de todas las acciones realizadas
 **Diagrama UML**
 
 
-<img width="851" height="536" alt="Helado_uml_final drawio" src="https://github.com/user-attachments/assets/5a3d352b-c408-49d8-91a3-ea520b48d264" />
-
+<img width="868" height="796" alt="uml_final_poo drawio" src="https://github.com/user-attachments/assets/b185fa9f-eb53-49ff-bdbc-d8ec9721e0fd" />
 
