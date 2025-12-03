@@ -57,6 +57,6 @@ Resumen de todas las acciones realizadas
 
 **Correcciones**
 
-Volví a crear mi proyecto porque el anterior era de unn centro de adopción pero estaba demasiado largo. 
+Volví a crear mi proyecto porque el anterior era de un centro de adopción pero estaba demasiado largo. 
 
 Corregí los métodos de las clases de sabores de helado, la clase pedido ya que no compilaba correctamente y la clase helado. 
