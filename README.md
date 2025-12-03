@@ -58,6 +58,5 @@ Resumen de todas las acciones realizadas
 **Correcciones**
 
 Volví a crear mi proyecto porque el anterior era de unn centro de adopción pero estaba demasiado largo. 
-Cree un nuevo proyecto inspirado en u pedido de heladería. En la terminal, se simula el pedido de una orden de helados en una heladería,
-te presenta los sabores y te da a elegir escribiendo el número designado al sabor y te pregunta si quuieres toppings o no y puedes seleccionarlos, 
-y al final te da tu cuenta en un ticket. 
+
+Corregí los métodos de las clases de sabores de helado, la clase pedido ya que no compilaba correctamente y la clase helado. 
