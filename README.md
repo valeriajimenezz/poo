@@ -14,7 +14,7 @@ Limón
 
 Cada uno de estos sabores cuenta con características propias, como tipo de chocolate, intensidad del café, tipo de fruta o ralladura de limón.
 
-**#🍨 Opciones disponibles para personalizar el helado**
+**🍨 Opciones disponibles para personalizar el helado**
 
 Elegir la base del helado
 El usuario selecciona el sabor principal y su tipo o característica específica según la clase heredada.
