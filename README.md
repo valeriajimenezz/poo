@@ -55,3 +55,9 @@ Resumen de todas las acciones realizadas
 
 <img width="868" height="796" alt="uml_final_poo drawio" src="https://github.com/user-attachments/assets/b185fa9f-eb53-49ff-bdbc-d8ec9721e0fd" />
 
+**Correcciones**
+
+Volví a crear mi proyecto porque el anterior era de unn centro de adopción pero estaba demasiado largo. 
+Cree un nuevo proyecto inspirado en u pedido de heladería. En la terminal, se simula el pedido de una orden de helados en una heladería,
+te presenta los sabores y te da a elegir escribiendo el número designado al sabor y te pregunta si quuieres toppings o no y puedes seleccionarlos, 
+y al final te da tu cuenta en un ticket. 
