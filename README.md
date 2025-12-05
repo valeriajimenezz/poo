@@ -120,3 +120,5 @@ Corregí los métodos de las clases de sabores de helado, la clase pedido ya que
 Se agregaron instrucciones de compilación. 
 
 Se agregaron correcciones al uml. 
+
+Se agregaron comentarios a los .cpp
