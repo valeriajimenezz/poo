@@ -108,12 +108,15 @@ Correr en Linux/Mac:
 
 **Diagrama UML**
 
+<img width="868" height="856" alt="uml_final_final_helado drawio" src="https://github.com/user-attachments/assets/e35657a5-72b9-4b93-8a87-70a0eb25d364" />
 
-<img width="868" height="796" alt="uml_final_poo drawio" src="https://github.com/user-attachments/assets/b185fa9f-eb53-49ff-bdbc-d8ec9721e0fd" />
 
 **Correcciones**
 
 Volví a crear mi proyecto porque el anterior era de un centro de adopción pero estaba demasiado largo. 
 
 Corregí los métodos de las clases de sabores de helado, la clase pedido ya que no compilaba correctamente y la clase helado. 
+
 Se agregaron instrucciones de compilación. 
+
+Se agregaron correcciones al uml. 
