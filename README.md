@@ -50,6 +50,62 @@ Resumen de todas las acciones realizadas
 
 ¡Crea el helado perfecto y disfruta de tu combinación! 🍦✨
 
+**Instrucciones de compilación**
+Consideraciones: 
+El programa corre en consola y está hecho con C++ standard por lo que es compatible con todos los sistemas operativos.
+
+Opción 1: Usando script de PowerShell (Windows - Recomendado)
+.\compile.ps1
+.\helados.exe
+
+
+Opción 2: Compilación manual por pasos
+Windows:
+g++ -c Toppings.cpp Helado.cpp Chocolate.cpp Cafe.cpp FrutosRojos.cpp Limon.cpp Pedido.cpp main.cpp
+g++ Toppings.o Helado.o Chocolate.o Cafe.o FrutosRojos.o Limon.o Pedido.o main.o -o helados.exe
+.\helados.exe
+
+Linux/Mac:
+g++ -c Toppings.cpp Helado.cpp Chocolate.cpp Cafe.cpp FrutosRojos.cpp Limon.cpp Pedido.cpp main.cpp
+g++ Toppings.o Helado.o Chocolate.o Cafe.o FrutosRojos.o Limon.o Pedido.o main.o -o helados
+./helados
+
+Opción 3: Compilación en una línea
+Windows:
+g++ *.cpp -o helados.exe
+.\helados.exe
+
+Linux/Mac:
+g++ *.cpp -o helados
+./helados
+
+
+Opción 4: Usando Makefile (Linux/Mac)
+make
+./helados
+Limpiar archivos compilados
+
+Windows:
+.\clean.ps1
+
+Linux/Mac:
+make clean
+
+O manualmente:
+rm *.o helados.exe    # Windows
+rm *.o helados        # Linux/Mac
+
+
+Compilar con:
+
+g++ *.cpp -o helados.exe
+Correr en Windows:
+
+.\helados.exe
+Correr en Linux/Mac:
+
+./helados
+
 **Diagrama UML**
 
 
